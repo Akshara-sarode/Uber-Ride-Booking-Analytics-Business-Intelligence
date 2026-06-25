@@ -290,6 +290,8 @@ The dashboard provides actionable insights into customer demand, operational eff
 
 **Data Analyst | Business Analyst | AI Enthusiast**
 
+
 ---
 
-⭐ *If you found this project interesting, consider giving it a star!*
+*🔗 LinkedIn:
+https://www.linkedin.com/in/akshara-avinash-sarode/*
