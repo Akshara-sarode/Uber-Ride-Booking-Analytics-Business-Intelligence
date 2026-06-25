@@ -217,25 +217,7 @@ Leverage historical booking data for:
 
 ---
 
-# 📂 Repository Structure
 
-```text
-Uber-Mobility-Analytics-Dashboard
-│
-├── Dashboard/
-│   └── Uber Analytics Dashboard.pbix
-│
-├── Dataset/
-│   └── uber.xlsx
-│
-├── Dashboard Img Preview/
-│   └── Uber Sales Performance Dashboard Preview.pdf
-│
-├── Report/
-│   └── Uber Executive Sales Performance Report.pdf
-│
-└── README.md
-```
 
 ---
 
