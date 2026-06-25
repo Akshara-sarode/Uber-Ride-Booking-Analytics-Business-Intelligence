@@ -10,6 +10,12 @@ This project analyzes Uber ride-booking data and transforms raw transactional re
 
 The dashboard enables stakeholders to monitor booking performance, revenue generation, fleet utilization, booking fulfillment, and customer demand across multiple vehicle categories. It provides decision-makers with real-time KPIs, trend analysis, and actionable recommendations for improving operational efficiency.
 
+<img width="2274" height="1214" alt="image" src="https://github.com/user-attachments/assets/e65442f8-2d92-47e3-b03d-d80b3b9d2aa3" />
+
+<img width="2208" height="1298" alt="image" src="https://github.com/user-attachments/assets/97b93ace-b4d3-4f1c-ada9-26a30cd3fe7a" />
+
+
+
 ---
 
 ## 🎯 Business Problem
